@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pM56XMl7aCCplhkfZ2LDhY9MymBgRh1Ui+4aWXzaPYsNhXxG4rthXc3Lcn+Iv3tj3A06/GW4p3J8lVFg+uJPgg==",
+  "dgSpecHash": "u1mcdJtXD62CZMsY63rjIN1ObGz3uWOlx1nYg0Wu7pQtWhlxhgn/kHkF5oRzwKZ3g/A5+dW5axg2rzH+juhSzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Learning Place\\productive-dev\\projects\\CloudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
